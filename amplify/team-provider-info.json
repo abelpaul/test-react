@@ -1,0 +1,28 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rev-inventory-app-env-110548-authRole",
+            "UnauthRoleArn": "arn:aws:iam::366734301438:role/amplify-rev-inventory-app-env-110548-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::366734301438:role/amplify-rev-inventory-app-env-110548-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-rev-inventory-app-env-110548-deployment",
+            "UnauthRoleName": "amplify-rev-inventory-app-env-110548-unauthRole",
+            "StackName": "amplify-rev-inventory-app-env-110548",
+            "StackId": "arn:aws:cloudformation:us-east-1:366734301438:stack/amplify-rev-inventory-app-env-110548/f1ff73e0-7297-11ea-98d4-0e194195a24f",
+            "AmplifyAppId": "d2ucm5q80q6hap"
+        }
+    },
+    "cfa": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rev-inventory-app-cfa-120156-authRole",
+            "UnauthRoleArn": "arn:aws:iam::366734301438:role/amplify-rev-inventory-app-cfa-120156-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::366734301438:role/amplify-rev-inventory-app-cfa-120156-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-rev-inventory-app-cfa-120156-deployment",
+            "UnauthRoleName": "amplify-rev-inventory-app-cfa-120156-unauthRole",
+            "StackName": "amplify-rev-inventory-app-cfa-120156",
+            "StackId": "arn:aws:cloudformation:us-east-1:366734301438:stack/amplify-rev-inventory-app-cfa-120156/1c892c00-7432-11ea-b853-0e5e10b6c293",
+            "AmplifyAppId": "d2ucm5q80q6hap"
+        }
+    }
+}
